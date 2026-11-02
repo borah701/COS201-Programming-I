@@ -1,0 +1,11 @@
+public class FirstProgram {
+    public static void main(String[] args) {
+        System.out.println("COS 201 - Computer Programming I");
+        System.out.println("Programme: Software Engineering");
+        System.out.println("Why programming is important:");
+        System.out.println("1. It helps solve real-world problems.");
+        System.out.println("2. It helps automate tasks.");
+        System.out.println("3. It supports software development.");
+        System.out.println("My goal is to improve my Java programming skills.");
+    }
+}
